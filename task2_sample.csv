@@ -1,0 +1,101 @@
+Player,Pos,Squad,Age,Min,90s,Sh,SoT,SoT%,Sh/90,SoT/90,PrimaryPos,ShootingAccuracy,AccuracyCheckAbsDiff
+Tajon Buchanan,MF,ca Canada,27,376,4.2,6,3,50.0,1.44,0.72,MF,50.0,0.0
+Saman Ghoddos,MF,ir IR Iran,32,208,2.3,4,0,0.0,1.73,0.0,MF,0.0,0.0
+Eberechi Eze,MF,eng England,27,211,2.3,5,0,0.0,2.13,0.0,MF,0.0,0.0
+Gilberto Mora,MF,mx Mexico,17,213,2.4,5,0,0.0,2.11,0.0,MF,0.0,0.0
+Hwang In-beom,MF,kr Korea Republic,29,263,2.9,4,2,50.0,1.37,0.68,MF,50.0,0.0
+Ruben Providence,MF,ht Haiti,24,220,2.4,4,1,25.0,1.64,0.41,MF,25.0,0.0
+Elijah Just,MF,nz New Zealand,26,264,2.9,7,5,71.4,2.39,1.7,MF,71.42857142857143,0.028571428571424917
+Kenan Yıldız,MF,tr Türkiye,21,218,2.4,14,1,7.1,5.78,0.41,MF,7.142857142857142,0.042857142857142705
+Christian Pulisic,MF,us USA,27,223,2.5,4,2,50.0,1.61,0.81,MF,50.0,0.0
+Emam Ashour,MF,eg Egypt,28,362,4.0,10,2,20.0,2.49,0.5,MF,20.0,0.0
+Kevin De Bruyne,MF,be Belgium,34,382,4.2,20,5,25.0,4.71,1.18,MF,25.0,0.0
+Ruben Vargas,MF,ch Switzerland,27,284,3.2,6,4,66.7,1.9,1.27,MF,66.66666666666666,0.03333333333334565
+Nicolás González,MF,ar Argentina,28,259,2.9,7,1,14.3,2.43,0.35,MF,14.285714285714285,0.014285714285716011
+Tijjani Reijnders,MF,nl Netherlands,27,199,2.2,4,2,50.0,1.81,0.9,MF,50.0,0.0
+Moisés Caicedo,MF,ec Ecuador,24,360,4.0,4,1,25.0,1.0,0.25,MF,25.0,0.0
+Samuel Moutoussamy,MF,cd Congo DR,29,330,3.7,3,0,0.0,0.82,0.0,MF,0.0,0.0
+Esmir Bajraktarevic,MF,ba Bosnia–Herz,21,230,2.6,3,2,66.7,1.17,0.78,MF,66.66666666666666,0.03333333333334565
+Fabián Ruiz Peña,MF,es Spain,30,321,3.6,8,2,25.0,2.24,0.56,MF,25.0,0.0
+Bradley Barcola,MF,fr France,23,384,4.3,10,5,50.0,2.34,1.17,MF,50.0,0.0
+Federico Valverde,MF,uy Uruguay,27,236,2.6,10,2,20.0,3.81,0.76,MF,20.0,0.0
+Idrissa Gueye,MF,sn Senegal,36,361,4.0,5,1,20.0,1.25,0.25,MF,20.0,0.0
+Jamal Musiala,MF,de Germany,23,270,3.0,6,1,16.7,2.0,0.33,MF,16.666666666666664,0.03333333333333499
+Kerim Alajbegović,MF,ba Bosnia–Herz,18,277,3.1,4,1,25.0,1.3,0.32,MF,25.0,0.0
+Salem Al-Dawsari,MF,sa Saudi Arabia,34,245,2.7,3,0,0.0,1.1,0.0,MF,0.0,0.0
+Jeremy Doku,MF,be Belgium,24,309,3.4,3,1,33.3,0.87,0.29,MF,33.33333333333333,0.03333333333333144
+John McGinn,MF,sct Scotland,31,259,2.9,3,1,33.3,1.04,0.35,MF,33.33333333333333,0.03333333333333144
+Jean-Ricner Bellegarde,MF,ht Haiti,27,260,2.9,6,0,0.0,2.08,0.0,MF,0.0,0.0
+Tahith Chong,MF,cw Curaçao,26,247,2.7,4,2,50.0,1.46,0.73,MF,50.0,0.0
+Anthony Gordon,MF,eng England,25,396,4.4,6,4,66.7,1.36,0.91,MF,66.66666666666666,0.03333333333334565
+Sarpreet Singh,MF,nz New Zealand,27,209,2.3,4,2,50.0,1.72,0.86,MF,50.0,0.0
+Pedri,MF,es Spain,23,499,5.5,5,2,40.0,0.9,0.36,MF,40.0,0.0
+Connor Metcalfe,MF,au Australia,26,315,3.5,5,2,40.0,1.43,0.57,MF,40.0,0.0
+Noni Madueke,MF,eng England,24,286,3.2,6,1,16.7,1.89,0.31,MF,16.666666666666664,0.03333333333333499
+Patrick Berg,MF,no Norway,28,445,4.9,3,0,0.0,0.61,0.0,MF,0.0,0.0
+Malik Tillman,MF,us USA,24,356,4.0,8,4,50.0,2.02,1.01,MF,50.0,0.0
+Casemiro,MF,br Brazil,34,379,4.2,4,2,50.0,0.95,0.47,MF,50.0,0.0
+Enzo Fernández,MF,ar Argentina,25,659,7.3,12,4,33.3,1.64,0.55,MF,33.33333333333333,0.03333333333333144
+Felix Nmecha,MF,de Germany,25,270,3.0,8,3,37.5,2.67,1.0,MF,37.5,0.0
+Azzedine Ounahi,MF,ma Morocco,26,435,4.8,5,3,60.0,1.03,0.62,MF,60.0,0.0
+Brahim Díaz,MF,ma Morocco,26,457,5.1,6,1,16.7,1.18,0.2,MF,16.666666666666664,0.03333333333333499
+Adrien Rabiot,MF,fr France,31,585,6.5,9,1,11.1,1.38,0.15,MF,11.11111111111111,0.011111111111111072
+Junya Itō,MF,jp Japan,33,216,2.4,3,1,33.3,1.25,0.42,MF,33.33333333333333,0.03333333333333144
+Leandro Bacuna,MF,cw Curaçao,34,270,3.0,6,1,16.7,2.0,0.33,MF,16.666666666666664,0.03333333333333499
+Deroy Duarte,MF,cv Cabo Verde,26,264,2.9,3,2,66.7,1.02,0.68,MF,66.66666666666666,0.03333333333334565
+Jefferson Lerma,MF,co Colombia,31,410,4.6,5,1,20.0,1.1,0.22,MF,20.0,0.0
+Livano Comenencia,MF,cw Curaçao,22,233,2.6,5,2,40.0,1.93,0.77,MF,40.0,0.0
+Nikola Vlašić,MF,hr Croatia,28,189,2.1,3,1,33.3,1.43,0.48,MF,33.33333333333333,0.03333333333333144
+Ousmane Dembélé,MF,fr France,29,592,6.6,20,10,50.0,3.04,1.52,MF,50.0,0.0
+Thalente Mbatha,MF,za South Africa,26,260,2.9,4,1,25.0,1.38,0.35,MF,25.0,0.0
+John Yeboah,MF,ec Ecuador,25,311,3.5,8,3,37.5,2.32,0.87,MF,37.5,0.0
+Musa Al-Taamari,FW,jo Jordan,29,215,2.4,8,3,37.5,3.35,1.26,FW,37.5,0.0
+Eldor Shomurodov,FW,uz Uzbekistan,30,269,3.0,4,2,50.0,1.34,0.67,FW,50.0,0.0
+Ayase Ueda,FW,jp Japan,27,321,3.6,9,4,44.4,2.52,1.12,FW,44.44444444444444,0.04444444444444429
+Amine Gouiri,FW,dz Algeria,26,251,2.8,3,2,66.7,1.08,0.72,FW,66.66666666666666,0.03333333333334565
+Cyle Larin,FW,ca Canada,31,190,2.1,9,4,44.4,4.26,1.89,FW,44.44444444444444,0.04444444444444429
+Antonio Nusa,FW,no Norway,21,318,3.5,6,2,33.3,1.7,0.57,FW,33.33333333333333,0.03333333333333144
+Alexander Isak,FW,se Sweden,26,357,4.0,8,6,75.0,2.02,1.51,FW,75.0,0.0
+Tani Oluwaseyi,FW,ca Canada,26,259,2.9,8,4,50.0,2.78,1.39,FW,50.0,0.0
+Oscar Bobb,FW,no Norway,22,225,2.5,4,2,50.0,1.6,0.8,FW,50.0,0.0
+Lionel Messi,FW,ar Argentina,38,740,8.2,35,18,51.4,4.26,2.19,FW,51.42857142857142,0.028571428571424917
+Viktor Gyökeres,FW,se Sweden,28,360,4.0,12,6,50.0,3.0,1.5,FW,50.0,0.0
+Ermedin Demirović,FW,ba Bosnia–Herz,28,354,3.9,4,4,100.0,1.02,1.02,FW,100.0,0.0
+Yoane Wissa,FW,cd Congo DR,29,360,4.0,11,3,27.3,2.75,0.75,FW,27.27272727272727,0.02727272727273089
+Matheus Cunha,FW,br Brazil,27,290,3.2,11,5,45.5,3.41,1.55,FW,45.45454545454545,0.045454545454546746
+Enner Valencia,FW,ec Ecuador,36,287,3.2,10,6,60.0,3.14,1.88,FW,60.0,0.0
+Brian Brobbey,FW,nl Netherlands,24,223,2.5,4,3,75.0,1.61,1.21,FW,75.0,0.0
+Gonzalo Plata,FW,ec Ecuador,25,360,4.0,8,5,62.5,2.0,1.25,FW,62.5,0.0
+Mikel Oyarzabal,FW,es Spain,29,601,6.7,23,12,52.2,3.44,1.8,FW,52.17391304347826,0.026086956521744753
+Nicolas Jackson,FW,sn Senegal,24,234,2.6,7,3,42.9,2.69,1.15,FW,42.857142857142854,0.04285714285714448
+Federico Viñas,FW,uy Uruguay,27,192,2.1,6,3,50.0,2.81,1.41,FW,50.0,0.0
+Ali Al Hamadi,FW,iq Iraq,24,180,2.0,6,0,0.0,3.0,0.0,FW,0.0,0.0
+Breel Embolo,FW,ch Switzerland,29,501,5.6,10,5,50.0,1.8,0.9,FW,50.0,0.0
+Kai Havertz,FW,de Germany,27,353,3.9,12,7,58.3,3.06,1.78,FW,58.333333333333336,0.033333333333338544
+Evidence Makgopa,FW,za South Africa,26,215,2.4,4,3,75.0,1.67,1.26,FW,75.0,0.0
+Mehdi Taremi,FW,ir IR Iran,33,259,2.9,5,2,40.0,1.74,0.69,FW,40.0,0.0
+Romelu Lukaku,FW,be Belgium,33,233,2.6,6,3,50.0,2.32,1.16,FW,50.0,0.0
+Cody Gakpo,FW,nl Netherlands,27,368,4.1,10,6,60.0,2.45,1.47,FW,60.0,0.0
+Julián Álvarez,FW,ar Argentina,26,602,6.7,11,5,45.5,1.64,0.75,FW,45.45454545454545,0.045454545454546746
+Ferran Torres,FW,es Spain,26,288,3.2,14,4,28.6,4.37,1.25,FW,28.57142857142857,0.028571428571432023
+Donyell Malen,FW,nl Netherlands,27,185,2.1,4,2,50.0,1.95,0.97,FW,50.0,0.0
+Nicolas Pépé,FW,ci Côte d'Ivoire,31,234,2.6,6,3,50.0,2.31,1.15,FW,50.0,0.0
+Agustín Canobbio,FW,uy Uruguay,27,224,2.5,4,1,25.0,1.61,0.4,FW,25.0,0.0
+Kylian Mbappé,FW,fr France,27,695,7.7,41,23,56.1,5.31,2.98,FW,56.09756097560976,0.002439024390241684
+Cristiano Ronaldo,FW,pt Portugal,41,440,4.9,18,9,50.0,3.68,1.84,FW,50.0,0.0
+Cédric Bakambu,FW,cd Congo DR,35,190,2.1,3,0,0.0,1.42,0.0,FW,0.0,0.0
+Vinicius Júnior,FW,br Brazil,25,440,4.9,17,11,64.7,3.48,2.25,FW,64.70588235294117,0.005882352941171121
+Folarin Balogun,FW,us USA,24,312,3.5,14,5,35.7,4.04,1.44,FW,35.714285714285715,0.014285714285712459
+Andreas Schjelderup,FW,no Norway,22,252,2.8,3,2,66.7,1.07,0.71,FW,66.66666666666666,0.03333333333334565
+Ricardo Pepi,FW,us USA,23,204,2.3,5,0,0.0,2.21,0.0,FW,0.0,0.0
+Lee Kang-in,FW,kr Korea Republic,25,270,3.0,4,1,25.0,1.33,0.33,FW,25.0,0.0
+Luis Suárez,FW,co Colombia,28,331,3.7,9,0,0.0,2.45,0.0,FW,0.0,0.0
+Julio Enciso,FW,py Paraguay,22,386,4.3,8,1,12.5,1.87,0.23,FW,12.5,0.0
+Harry Kane,FW,eng England,32,652,7.2,23,12,52.2,3.17,1.66,FW,52.17391304347826,0.026086956521744753
+Wilson Isidor,FW,ht Haiti,25,186,2.1,5,2,40.0,2.42,0.97,FW,40.0,0.0
+Chris Wood,FW,nz New Zealand,34,270,3.0,5,2,40.0,1.67,0.67,FW,40.0,0.0
+Raúl Jiménez,FW,mx Mexico,35,317,3.5,18,7,38.9,5.11,1.99,FW,38.88888888888889,0.011111111111105743
+Jonathan David,FW,ca Canada,26,420,4.7,18,8,44.4,3.86,1.71,FW,44.44444444444444,0.04444444444444429
+Alexander Sørloth,FW,no Norway,30,337,3.7,5,0,0.0,1.34,0.0,FW,0.0,0.0
+Erling Haaland,FW,no Norway,25,465,5.2,20,13,65.0,3.87,2.52,FW,65.0,0.0
+Lautaro Martínez,FW,ar Argentina,28,310,3.4,10,4,40.0,2.9,1.16,FW,40.0,0.0
